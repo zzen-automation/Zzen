@@ -8,7 +8,7 @@ A native C++ desktop app for repeating **Chronicle matches** in Inazuma Eleven: 
 
 > **The game must be set to Spanish.** Changing Zzen's display language does not change this requirement. Recognition is designed for the Spanish game interface.
 
-**[Download for Windows](https://github.com/kazah-png/Zzen/releases/latest)**
+**[Download for Windows](https://github.com/zzen-automation/Zzen/releases/latest)**
 
 **[Join the Zzen Discord community](https://discord.gg/UJxYEmPra)** — Get help, report bugs, share feedback and follow development. Public repository commits appear in **#github-updates**; release news is shared in **#announcements**. The server also has a dedicated area for the upcoming Premium edition.
 
